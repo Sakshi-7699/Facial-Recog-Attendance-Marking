@@ -1,0 +1,10 @@
+,rno,name,pno,email,gender,hostelite,ut1dbms,ut1sepm,ut1cn,ut1isee,ut1toc,ut2dbms,ut2sepm,ut2cn,ut2isee,ut2toc
+0,1,prajakta,1234569563,p@gmail.com,female,no,12,28,19,19,14,30,16,19,19,25
+1,2,ramya,9865231478,ramya@gmail.com,female,no,12,22,14,14,19,18,20,22,22,25
+2,3,prajaktashinde,9874562145,p_s@gmail.com,female,no,12,13,10,10,19,18,24,25,25,22
+3,4,neha,9654782136,neha@gmail.com,female,no,12,13,16,16,20,22,24,25,25,15
+4,5,madhuri,7854693215,madhu@gmail.com,female,yes,19,20,24,24,12,13,15,18,18,22
+5,6,mayuresh,8459633211,mayuresh@gmail.com,male,no,12,13,15,15,18,19,20,22,22,24
+6,7,gopal,8964496858,gopal@gmail.com,male,no,15,19,20,20,25,24,22,21,21,25
+7,8,saurabhghewande,9865255554,s_g@gmail.com,male,yes,22,15,19,19,17,21,22,24,24,12
+8,9,siddhi,8888959595,s@gmail.com,female,yes,12,21,22,22,24,25,20,22,22,22

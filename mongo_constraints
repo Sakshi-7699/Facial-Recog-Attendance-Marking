@@ -1,0 +1,39 @@
+db.createCollection("result",{
+    validator:{
+        "name":{$type:"string"},
+        "rno":{$type:"string"},
+        "pno":{$type:"string"},
+        "email":{$type:"string",$regex:/@gmail\.com/},
+        "gender":{$type:"string"},
+        "hostelite":{$type:"string"},
+        "ut1dbms":{$type:"string"},
+        "ut1sepm":{$type:"string"},
+        "ut1cn":{$type:"string"},
+        "ut1isee":{$type:"string"},
+        "ut1toc":{$type:"string"},
+        "ut2dbms":{$type:"string"},
+        "ut2sepm":{$type:"string"},
+        "ut2cn":{$type:"string"},
+        "ut2isee":{$type:"string"},
+        "ut2toc":{$type:"string"},
+    }
+    })
+    
+db.result.insert({
+        "name":"prajakta",
+        "rno":"1",
+        "pno":"9865327410",
+        "email":"praj@gmail.com",
+        "gender":"female",
+        "hostelite":"no",
+        "ut1dbms":"12",
+        "ut1sepm":"12",
+        "ut1cn":"12",
+        "ut1isee":"12",
+        "ut1toc":"12",
+        "ut2dbms":"12",
+        "ut2sepm":"12",
+        "ut2cn":"12",
+        "ut2isee":"12",
+        "ut2toc":"12",
+    })
