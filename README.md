@@ -1,6 +1,6 @@
 # Facial-Recog-Attendance-Marking
 
-###Requirements
+### Requirements
 -Tensorflow
 -PyQt5
 -mongoDB
